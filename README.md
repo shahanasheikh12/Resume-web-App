@@ -1,18 +1,103 @@
 
 
-# React + Vite
+# Resume Builder Web App 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Resume Builder Web Application built using React and Vite.  
+Users can create professional resumes with live preview and download functionality.
 
-Currently, two official plugins are available:
+The application provides **2 different resume designs**:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎨 Modern Blue & White Resume
+- 📄 Plain & Simple Resume
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# ✨ Features
 
-## Expanding the ESLint configuration
+- 📝 Easy Resume Creation
+- ⚡ Live Resume Preview
+- 🎨 Multiple Resume Templates
+- 📄 Download Resume as PDF
+- 📱 Responsive Design
+- 🔄 Real-Time Form Updates
+- 🌙 Clean User Interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# 🖥 Application Overview
+
+The application screen is divided into 2 sections.
+
+## Left Side → Resume Information Form
+
+Users can enter:
+
+- Personal Details
+- Contact Information
+- Professional Summary
+- Education
+- Skills
+- Experience
+- Projects
+- Achievements
+
+## Right Side → Resume Preview
+
+- Resume updates instantly while typing
+- Live preview functionality
+- Professional formatting
+
+---
+
+# 📄 Resume Templates
+
+## 1️⃣ Modern Blue & White Resume
+
+Features:
+
+- Blue sidebar design
+- Modern professional layout
+- Stylish typography
+- Best for developers and designers
+- Includes:
+  - Contact Section
+  - Summary
+  - Experience
+  - Education
+  - Skills
+
+---
+
+## 2️⃣ Plain & Simple Resume
+
+Features:
+
+- Clean ATS-Friendly layout
+- Minimal black & white design
+- Professional formatting
+- Best for internships and corporate jobs
+- Includes:
+  - Summary
+  - Technical Skills
+  - Projects
+  - Education
+  - Achievements
+
+---
+
+# 📂 Project Structure
+
+```bash
+resume-builder/
+│
+├── public/
+│
+├── src/
+│
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+└── vite.config.js
