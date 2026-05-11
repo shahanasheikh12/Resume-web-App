@@ -18,13 +18,13 @@ The application provides **2 different resume designs**:
 -  Live Resume Preview
 -  Multiple Resume Templates
 -  Download Resume as PDF
-- 📱 Responsive Design
-- 🔄 Real-Time Form Updates
-- 🌙 Clean User Interface
+-  Responsive Design
+-  Real-Time Form Updates
+-  Clean User Interface
 
 ---
 
-# 🖥 Application Overview
+#  Application Overview
 
 The application screen is divided into 2 sections.
 
