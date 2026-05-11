@@ -49,9 +49,9 @@ Users can enter:
 
 ---
 
-# 📄 Resume Templates
+# Resume Templates
 
-## 1️⃣ Modern Blue & White Resume
+## 1️ Modern Blue & White Resume
 
 Features:
 
@@ -68,7 +68,7 @@ Features:
 
 ---
 
-## 2️⃣ Plain & Simple Resume
+## 2️ Plain & Simple Resume
 
 Features:
 
@@ -85,7 +85,7 @@ Features:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 resume-builder/
