@@ -1,14 +1,14 @@
 
 
-# Resume Builder Web App 🚀
+# Resume Builder Web App 
 
 A modern and responsive Resume Builder Web Application built using React and Vite.  
 Users can create professional resumes with live preview and download functionality.
 
 The application provides **2 different resume designs**:
 
-- 🎨 Modern Blue & White Resume
-- 📄 Plain & Simple Resume
+-  Modern Blue & White Resume
+-  Plain & Simple Resume
 
 ---
 
