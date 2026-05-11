@@ -12,12 +12,12 @@ The application provides **2 different resume designs**:
 
 ---
 
-# ✨ Features
+#  Features
 
-- 📝 Easy Resume Creation
-- ⚡ Live Resume Preview
-- 🎨 Multiple Resume Templates
-- 📄 Download Resume as PDF
+-  Easy Resume Creation
+-  Live Resume Preview
+-  Multiple Resume Templates
+-  Download Resume as PDF
 - 📱 Responsive Design
 - 🔄 Real-Time Form Updates
 - 🌙 Clean User Interface
