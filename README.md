@@ -58,7 +58,7 @@ Resume/
 
 ---
 
-## 💻 Setup and Installation
+## Setup and Installation
 
 Follow these steps to run the project locally:
 
@@ -91,7 +91,7 @@ npm run build
 
 ---
 
-## ☁️ Supabase Integration Reference
+##  Supabase Integration Reference
 
 To connect your own backend instance:
 1. Create a Supabase project at [supabase.com](https://supabase.com/).
@@ -111,5 +111,5 @@ To connect your own backend instance:
 
 ---
 
-## 📄 License
+##  License
 This project is open-source and available under the MIT License.
