@@ -1,4 +1,4 @@
-# Interactive Resume Builder Web App 📄✨
+# Interactive Resume Builder Web App 
 
 A modern, fast, and responsive React web application that allows users to create, customize, preview, and download professional resumes in minutes. The application features user authentication and securely saves generated resumes to the cloud using Supabase.
 
