@@ -6,7 +6,7 @@ A modern, fast, and responsive React web application that allows users to create
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Dynamic Live Form Builder**: Seamless inputs for:
   * **Personal Details**: Name, Job Title, Contact Details, and Professional Summary.
