@@ -27,7 +27,7 @@ A modern, fast, and responsive React web application that allows users to create
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend Framework:** React 19
 * **Build Tool:** Vite
@@ -39,7 +39,7 @@ A modern, fast, and responsive React web application that allows users to create
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Resume/
